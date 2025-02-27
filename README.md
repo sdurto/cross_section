@@ -1,2 +1,2 @@
-# cross_sectiom
+# cross_section
 Scientific Animations
