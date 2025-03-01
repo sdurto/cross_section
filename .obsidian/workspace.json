@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "5ffe11001270d30e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a61573b41bd637b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c643dc7f7f7b7de8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cross_section.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cross_section"
+            }
+          },
+          {
+            "id": "8f4464e86d983cb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CHANGELOG.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CHANGELOG"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "11fdab8cdcaaa162",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2e1fcb88990d2bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "351c2af7bb232e2f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f1de44a02daab57d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "69ff62327da93311",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eae5006d086bcfea",
+    "type": "split",
+    "children": [
+      {
+        "id": "45714c1933a2d2bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c703ad762221b587",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CHANGELOG.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for CHANGELOG"
+            }
+          },
+          {
+            "id": "641431faa2c3fcc9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CHANGELOG.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from CHANGELOG"
+            }
+          },
+          {
+            "id": "9157c4d84bf37fc4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "88fe96c8660a1cdc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CHANGELOG.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of CHANGELOG"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8f4464e86d983cb8",
+  "lastOpenFiles": [
+    "log/2025/2025-03-01-vault.md",
+    "doc/manim/manim.md",
+    "log/2025/2025-02-27-start.md",
+    "log/2025/2025-02-28-software.md",
+    "CHANGELOG.md",
+    "log/2025/2025-02-28-cross_env.md",
+    "log/2025/media/c250227c-github/c250227c-3-desktop.png",
+    "log/2025/media/c250227c-github/c250227c-2-repo.png",
+    "log/2025/media/c250227c-github/c250227c-1-create.png",
+    "log/2025/media/c250227c-github",
+    "log/2025/media",
+    "doc/manim",
+    "doc",
+    "log/2025/2025-02-28-manim-sci-math.md",
+    "log/2025/2025-02-28-cross_section.md",
+    "log/2025/2025-02-27-github.md",
+    "log/2025/2025-02-27-cross_section.md",
+    "log/2025/2025-02-27-manim.md",
+    "log/2025",
+    "cross_section.md",
+    "README.md",
+    "log",
+    "LICENSE.txt"
+  ]
+}
